@@ -10,8 +10,9 @@ cement==2.8.2
 certifi==2020.4.5.1
 cffi==1.14.0
 chardet==3.0.4
-ChatterBot==1.1.0a7
-https://github.com/hugocfranco/chatterbot-corpus/archive/1.2.2.tar.gz#egg=chatterbot-corpus==1.2.0
+chatterBot==1.0.5
+chatterbot_corpus
+https://github.com/hugocfranco/fake-news-detector/archive/1.0.tar.gz#egg=fake-news-detector==1.2.0
 click==7.1.2
 colorama==0.4.3
 cryptography==2.9.2
